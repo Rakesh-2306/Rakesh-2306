@@ -56,21 +56,4 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakesh-2306&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-2306&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:kmrakesh23@gmail.com"><img src="https://img.shields.io/badge/Email-kmrakesh23%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rakeshkm23"><img src="https://img.shields.io/badge/LinkedIn-Rakesh%20K%20M-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Rakesh-2306"><img src="https://img.shields.io/badge/GitHub-Rakesh--2306-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
 > “Designing ultra-efficient RISC-V architectures for intelligent, always-on healthcare systems ⚡”

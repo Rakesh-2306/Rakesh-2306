@@ -6,8 +6,8 @@
 ### 🧠 About Me
 - 🎓 Pursuing **M.Tech in VLSI Design** from **Vellore Institute of Technology, Chennai**
 - ⚙️ Specializing in **Low-Power Processor Design**, **RISC-V Architectures**, and **ASIC Flow Implementation**
-- 💡 Passionate about **Digital Design**, **EDA Automation**, and **Energy-Efficient System-on-Chip Architectures**
-- 🚀 Currently developing a **Day–Night RISC-V Processor** featuring an **always-on low-power core** for wearable and biomedical applications
+- 💡 Passionate about **Digital Design**, **EDA Automation**, and **Energy-Efficient SoC Architectures**
+- 🚀 Currently developing an **Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications**
 - 📫 Reach me at **kmrakesh23@gmail.com**
 
 ---
@@ -15,32 +15,33 @@
 ### 🔬 Technical Expertise
 - **Languages:** Verilog, SystemVerilog, TCL, Python, C  
 - **EDA Tools:** Synopsys VCS, Design Compiler, IC Compiler II, PrimeTime, Cadence Virtuoso, Xilinx Vivado, ModelSim  
-- **Technology:** SAED32HVT (32 nm) — Operating Corner: ff0p95v125c  
+- **Technology:** SAED32HVT (32nm) — Operating Corner: ff0p95v125c  
 - **Domains:** ASIC Design Flow, Physical Design, Power Optimization, RTL-to-GDSII, FPGA Prototyping  
 - **Key Strengths:** Functional Verification, Timing Closure, Power Analysis, Multi-Vt Optimization  
 
 ---
 
 ### 🚀 Major Project
-#### 🌓 **Day–Night RISC-V Processor (ASIC Implementation)**
-- Developed a **custom RISC-V processor** with a **Day–Night architecture** integrating:
-  - **Main Core (Day Mode)** – high-performance Rocket-like pipeline  
-  - **All-Night Core (Night Mode)** – always-on, ultra-low-power sub-core for anomaly detection  
-- Implemented the **complete ASIC flow** using **Synopsys tools**:
+#### 🩺 **Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications**
+- Designed and implemented a **Day–Night RISC-V processor architecture** with:
+  - **Main Core (Day Mode):** High-performance pipeline for intensive computation  
+  - **All-Night Core (Night Mode):** Always-on, ultra-low-power sub-core for real-time anomaly detection  
+- Implemented complete **ASIC flow** using **Synopsys toolchain**:
   - **VCS** – Functional Verification  
-  - **Design Compiler (DC)** – Logic Synthesis & Power/Timing Analysis  
+  - **Design Compiler (DC)** – Logic Synthesis, Power, and Timing Analysis  
   - **IC Compiler II (ICC2)** – Floorplanning, Placement, and Routing  
-  - **PrimeTime** – Static Timing Analysis  
-- Used **SAED32HVT technology libraries** at **ff0p95v125c corner** to achieve **power-efficient performance**.  
-- Results compared with **ORCA** and **Rocket** cores for power, area, and energy metrics.
+  - **PrimeTime** – Static Timing and Power Verification  
+- Used **SAED32HVT standard cell libraries** at **ff0p95v125c corner** for low-leakage, high-speed design.  
+- Evaluated and compared performance with **ORCA** and **Rocket** cores for **power, area, and energy efficiency**.  
+- Targeted **wearable biomedical SoC platforms** for continuous, low-power monitoring.
 
 ---
 
 ### 🧮 Other Research Work
 #### 🔋 [Low Power Hybrid Full Adder for Array Multiplier (90nm CMOS)](https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adder-for-array-multiplier-in-90nm-technology)
-- Designed a **20T Hybrid TG-PTL Full Adder** for low power and delay.
+- Designed a **20T Hybrid TG-PTL Full Adder** optimized for power and delay.
 - Integrated into **4-bit and 8-bit Array Multipliers**.
-- Verified in **Cadence Virtuoso (90nm GPDK)** with **DRC/LVS and Post-Layout Parasitic Extraction**.
+- Verified using **Cadence Virtuoso (90nm GPDK)** with **DRC/LVS and Post-Layout Parasitic Extraction**.
 
 ---
 
@@ -71,4 +72,4 @@
 
 ---
 
-> “Designing tomorrow’s energy-efficient processors — one transistor at a time ⚡”
+> “Designing ultra-efficient RISC-V architectures for intelligent, always-on healthcare systems ⚡”

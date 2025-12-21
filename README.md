@@ -43,7 +43,7 @@ Actively Seeking Internship & Full-Time Roles in VLSI / ASIC / Analog Design
 ---
 
 ### 🚀 Major Project (Digital ASIC / RISC-V)
-#### 🩺 **[Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications](https://github.com/Rakesh-2306)**  
+#### 🩺 **[Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications](https://github.com/Rakesh-2306/Ultra-Lightweight-RISC-V-Architecture-for-Anomaly-Detection-in-Healthcare-Application)**  
 📅 *Jun 2025 – Nov 2025*
 - Designed a **low-power Day–Night RISC-V processor architecture**
 - Developed **always-on ultra-low-power sub-core** for continuous monitoring
@@ -57,7 +57,7 @@ Actively Seeking Internship & Full-Time Roles in VLSI / ASIC / Analog Design
 ---
 
 ### 🔋 Other Research Work
-#### 🔢 **[Low Power Hybrid Full Adder for Array Multiplier (90nm CMOS)](https://github.com/Rakesh-2306)**  
+#### 🔢 **[Low Power Hybrid Full Adder for Array Multiplier (90nm CMOS)](https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adder-for-array-multiplier-in-90nm-technology)**  
 📅 *Aug 2024 – Apr 2025*
 - Designed a **20T Hybrid TG-PTL Full Adder** for low-power arithmetic
 - Integrated into **4-bit and 8-bit array multipliers**

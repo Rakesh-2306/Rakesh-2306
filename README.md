@@ -1,16 +1,15 @@
 <h1 align="center">👋 Hi, I'm Rakesh K M</h1>
 <h3 align="center">
-VLSI Design Engineer | M.Tech in VLSI Design (VIT Chennai) <br/>
-Actively Seeking Internship & Full-Time Roles in VLSI / ASIC / Analog Design
+Analog/RF IC Design | LNA (P1dB, IIP3, NF) | RTL-to-GDSII | Cadence Virtuoso | Synopsys (VCS, DC, ICC2) | M.Tech VLSI 2026
 </h3>
 
 ---
 
 ### 🧠 About Me
 - 🎓 M.Tech candidate in **VLSI Design** at **Vellore Institute of Technology, Chennai**
-- ⚙️ Strong foundation in **Digital ASIC Design**, **Low-Power Architectures**, and **Analog IC Design**
-- 💡 Hands-on experience with **RTL-to-GDSII**, **Physical Design**, and **Analog Circuit Design**
-- 🚀 Open to **6-month internships** and **full-time opportunities** in leading VLSI companies
+- ⚙️ Strong foundation in **Analog/RF IC Design**, **Digital ASIC Design**, and **Low-Power Architectures**
+- 💡 Hands-on experience with **RTL-to-GDSII flow**, **Physical Design**, and **Analog Circuit Design**
+- 🚀 Open to **6-month internships** and **full-time opportunities** in leading VLSI/semiconductor companies
 
 ---
 
@@ -23,28 +22,33 @@ Actively Seeking Internship & Full-Time Roles in VLSI / ASIC / Analog Design
   - **FPGA:** Xilinx Vivado  
 - **Technology Nodes:** **SAED32HVT (32nm)**, **SCL 180nm CMOS**  
 - **Domains:**  
+  - Analog/RF IC Design (LNA, Noise Analysis, Linearity)  
   - Digital ASIC Design & Verification  
   - Physical Design (Floorplan → PnR → Timing Closure)  
   - Low-Power Design Techniques  
-  - **Analog IC Design (LNA, Noise Analysis)**  
-- **Core Skills:** Functional Verification, STA, Power Analysis, Multi-Vt Optimization, DRC/LVS
+- **Core Skills:** STA, Power Analysis, Multi-Vt Optimization, DRC/LVS, PEX
 
 ---
 
 ### 🔬 Current Major Project (Analog IC Design)
 #### 📡 **Performance-Balanced Noise-Canceling Low Noise Amplifier**  
-📅 *Dec 2025 – Present*  
+📅 *Apr 2026*  
 **Technology:** **SCL 180nm CMOS**
-- Designing a **noise-canceling LNA** for **low-power RF front-end applications**
-- Focus on **balanced trade-off between gain, noise figure, bandwidth, and power**
-- Circuit design, simulation, and analysis using **Cadence Virtuoso**
-- Emphasis on **bias stability, transistor sizing, and layout-aware performance**
+
+- Designed and analyzed multiple LNA architectures (**CG–CS UWB, Cascode, Folded Cascode**) using **Cadence Virtuoso**
+- Performed RF characterization including **gain, noise figure, impedance matching (S11, S22 < -10 dB), and stability (K > 1, μ > 1)**
+- Conducted **linearity analysis using P1dB, IIP3/OIP3, and IMD3**, optimizing folded cascode for improved large-signal performance
+- Achieved **~16 dB gain, low noise figure, and improved linearity (P1dB ≈ 2.8 dBm)** with unconditional stability
+- Implemented layout with **device matching, symmetry, and parasitic-aware design techniques**
+- Designed a **custom square spiral inductor** due to absence of inductor model in SCL 180nm PDK
+- Proceeding toward **LVS, post-layout RC parasitic extraction (PEX), and tapeout (pending inductor PDK availability)**
 
 ---
 
 ### 🚀 Major Project (Digital ASIC / RISC-V)
 #### 🩺 **[Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications](https://github.com/Rakesh-2306/Ultra-Lightweight-RISC-V-Architecture-for-Anomaly-Detection-in-Healthcare-Application)**  
 📅 *Jun 2025 – Nov 2025*
+
 - Designed a **low-power Day–Night RISC-V processor architecture**
 - Developed **always-on ultra-low-power sub-core** for continuous monitoring
 - Complete **ASIC implementation flow**:
@@ -59,10 +63,12 @@ Actively Seeking Internship & Full-Time Roles in VLSI / ASIC / Analog Design
 ### 🔋 Other Research Work
 #### 🔢 **[Low Power Hybrid Full Adder for Array Multiplier (90nm CMOS)](https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adder-for-array-multiplier-in-90nm-technology)**  
 📅 *Aug 2024 – Apr 2025*
-- Designed a **20T Hybrid TG-PTL Full Adder** for low-power arithmetic
-- Integrated into **4-bit and 8-bit array multipliers**
-- Simulated and verified in **Cadence Virtuoso (90nm GPDK)**
-- Performed **DRC, LVS, and post-layout parasitic extraction**
+
+- Designed a **20-transistor hybrid TG–PTL full adder** optimized for **low power and reduced delay**
+- Integrated into **4-bit and 8-bit array multipliers**, improving overall energy efficiency
+- Achieved reduction in **power consumption and propagation delay** compared to conventional CMOS designs
+- Performed schematic design, simulation, and validation using **Cadence Virtuoso (90nm GPDK)**
+- Completed **layout design with matching considerations**, followed by **DRC, LVS, and post-layout parasitic extraction**
 
 ---
 

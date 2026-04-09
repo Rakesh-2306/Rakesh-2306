@@ -32,7 +32,7 @@ Analog/RF IC Design | LNA (P1dB, IIP3, NF) | RTL-to-GDSII | Cadence Virtuoso | S
 
 ### 🔬 Current Major Project (Analog IC Design)
 #### 📡 **Performance-Balanced Noise-Canceling Low Noise Amplifier**  
-📅 *Apr 2026*  
+📅 *Dec 2025 – Apr 2026*  
 **Technology:** **SCL 180nm CMOS**
 
 - Designed and analyzed multiple LNA architectures (**CG–CS UWB, Cascode, Folded Cascode**) using **Cadence Virtuoso**

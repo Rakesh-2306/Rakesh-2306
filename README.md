@@ -31,7 +31,7 @@ Analog/RF IC Design | LNA (P1dB, IIP3, NF) | RTL-to-GDSII | Cadence Virtuoso | S
 ---
 
 ### 📡 Dissertation Work (Analog IC Design)
-#### 🔗 **[Performance-Balanced Noise-Canceling Low Noise Amplifier](https://github.com/Rakesh-2306/Performance-Balanced Noise-Canceling Low Noise Amplifier)**  
+#### 🔗 **[Performance-Balanced Noise-Canceling Low Noise Amplifier](https://github.com/Rakesh-2306/Performance-Balanced-Noise-Canceling-Low-Noise-Amplifier)**  
 📅 *Dec 2025 – Apr 2026*  
 **Technology:** **SCL 180nm CMOS**
 

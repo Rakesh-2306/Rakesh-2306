@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rakesh K M</h1>
 <h3 align="center">
-Analog/RF IC Design | LNA (P1dB, IIP3, NF) | RTL-to-GDSII | Cadence Virtuoso | Synopsys (VCS, DC, ICC2) | M.Tech VLSI 2026
+Analog/Mixed-Signal IC & Layout Design Engineer | RF LNA Design (P1dB, IIP3, NF) | Digital VLSI & Physical Design | Cadence Virtuoso | Synopsys (VCS, DC, ICC2) | Immediate Joiner
 </h3>
 
 ---

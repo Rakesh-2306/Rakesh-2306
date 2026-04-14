@@ -6,10 +6,10 @@ Analog/RF IC Design | LNA (P1dB, IIP3, NF) | RTL-to-GDSII | Cadence Virtuoso | S
 ---
 
 ### 🧠 About Me
-- 🎓 M.Tech candidate in **VLSI Design** at **Vellore Institute of Technology, Chennai**
+- 🎓 M.Tech in **VLSI Design (Coursework Completed, Result Awaited)** at **Vellore Institute of Technology, Chennai**
 - ⚙️ Strong foundation in **Analog/RF IC Design**, **Digital ASIC Design**, and **Low-Power Architectures**
 - 💡 Hands-on experience with **RTL-to-GDSII flow**, **Physical Design**, and **Analog Circuit Design**
-- 🚀 Open to **6-month internships** and **full-time opportunities** in leading VLSI/semiconductor companies
+- 🚀 Available for **Immediate Joining** | Open to **Full-Time and Internship Opportunities**
 
 ---
 
@@ -30,23 +30,23 @@ Analog/RF IC Design | LNA (P1dB, IIP3, NF) | RTL-to-GDSII | Cadence Virtuoso | S
 
 ---
 
-### 🔬 Current Major Project (Analog IC Design)
-#### 📡 **Performance-Balanced Noise-Canceling Low Noise Amplifier**  
+### 📡 Dissertation Work (Analog IC Design)
+#### 🔗 **[Performance-Balanced Noise-Canceling Low Noise Amplifier](https://github.com/Rakesh-2306/LNA_UWB_Project)**  
 📅 *Dec 2025 – Apr 2026*  
 **Technology:** **SCL 180nm CMOS**
 
 - Designed and analyzed multiple LNA architectures (**CG–CS UWB, Cascode, Folded Cascode**) using **Cadence Virtuoso**
 - Performed RF characterization including **gain, noise figure, impedance matching (S11, S22 < -10 dB), and stability (K > 1, μ > 1)**
 - Conducted **linearity analysis using P1dB, IIP3/OIP3, and IMD3**, optimizing folded cascode for improved large-signal performance
-- Achieved **~16 dB gain, low noise figure, and improved linearity (P1dB ≈ 2.8 dBm)** with unconditional stability
-- Implemented layout with **device matching, symmetry, and parasitic-aware design techniques**
+- Achieved **~16 dB gain, low noise figure (~1.1 dB), and improved linearity (P1dB ≈ 2.87 dBm)** with unconditional stability
+- Implemented layout using **device matching, symmetry, and common-centroid techniques**
 - Designed a **custom square spiral inductor** due to absence of inductor model in SCL 180nm PDK
-- Proceeding toward **LVS, post-layout RC parasitic extraction (PEX), and tapeout (pending inductor PDK availability)**
+- Performed **preliminary DRC/LVS checks**; post-layout RC parasitic extraction (PEX) and final verification are in progress (awaiting inductor PDK)
 
 ---
 
-### 🚀 Major Project (Digital ASIC / RISC-V)
-#### 🩺 **[Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications](https://github.com/Rakesh-2306/Ultra-Lightweight-RISC-V-Architecture-for-Anomaly-Detection-in-Healthcare-Application)**  
+### 🩺 Dissertation Work (Digital ASIC / RISC-V)
+#### 🔗 **[Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications](https://github.com/Rakesh-2306/Ultra-Lightweight-RISC-V-Architecture-for-Anomaly-Detection-in-Healthcare-Application)**  
 📅 *Jun 2025 – Nov 2025*
 
 - Designed a **low-power Day–Night RISC-V processor architecture**
@@ -83,7 +83,7 @@ Analog/RF IC Design | LNA (P1dB, IIP3, NF) | RTL-to-GDSII | Cadence Virtuoso | S
 ---
 
 ### 📫 Contact & Opportunities
-- 💼 Open to **Internship (6 months)** and **Full-Time** roles  
+- 💼 Open to **Full-Time roles** (Immediate Joiner)  
 - 🔗 GitHub: https://github.com/Rakesh-2306  
 - 🔗 LinkedIn: https://www.linkedin.com/in/kmrakesh/
 

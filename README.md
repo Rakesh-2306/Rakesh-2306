@@ -39,66 +39,71 @@ I have worked with multiple CMOS technologies including:
 
 # 💻 Technical Skills
 
-## Hardware Description Languages
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- Verilog
-- SystemVerilog
+### 🖥 Design & Verification
 
-## Analog Layout
-
-- Full-Custom Layout
-- Device Matching
-- Common-Centroid
-- Interdigitation
-- Dummy Devices
-- Guard Rings
-- Shielding
-- Layout Optimization
-
-## ASIC Physical Design
-
-- RTL-to-GDSII Flow
+- **RTL Design**
+- **SystemVerilog**
+- **Verilog**
+- Functional Verification
 - Logic Synthesis
+- Static Timing Analysis (STA)
+- ASIC Physical Design
 - Floorplanning
 - Placement
-- Clock Tree Synthesis (CTS)
+- CTS
 - Routing
-- Static Timing Analysis (STA)
-- Timing Optimization
-- Congestion Analysis
-- Power Analysis
 
-## Physical Verification
+</td>
 
-- Calibre DRC/LVS
-- Assura DRC/LVS
-- RC Parasitic Extraction (PEX)
+<td valign="top" width="50%">
 
-## EDA Tools
+### 📐 Analog Layout & EDA
 
-### Synopsys
-
-- VCS
+- Full-Custom Analog Layout
+- Device Matching
+- Common-Centroid
+- Guard Rings & Shielding
+- DRC / LVS / PEX
+- Cadence Virtuoso
+- Synopsys VCS
 - Design Compiler
 - ICC2
-
-### Cadence
-
-- Virtuoso
-- Virtuoso Layout Suite
-- Innovus
-
-### Others
-
 - ModelSim
 
-## Programming
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🏭 Process Technologies
+
+- GlobalFoundries 40nm
+- TSMC 65nm (Academic)
+- SAED32nm
+- SCL180nm
+- GPDK180nm
+- GPDK90nm
+- GPDK45nm
+
+</td>
+
+<td valign="top">
+
+### 💻 Programming
 
 - C
 - Python
 - Perl
 - TCL
 
+</td>
+</tr>
+</table>
 ---
 
 # 🔬 Featured Projects

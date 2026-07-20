@@ -136,7 +136,7 @@ I have worked with multiple CMOS technologies including:
 
 </tr>
 </table>
----
+
 
 # 🎓 Professional Training
 

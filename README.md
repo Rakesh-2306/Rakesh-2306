@@ -1,92 +1,172 @@
 <h1 align="center">👋 Hi, I'm Rakesh K M</h1>
+
 <h3 align="center">
-Analog/Mixed-Signal IC & Layout Design Engineer | RF LNA Design (P1dB, IIP3, NF) | Digital VLSI & Physical Design | Cadence Virtuoso | Synopsys (VCS, DC, ICC2) | Immediate Joiner
+Analog Layout Engineer | ASIC Physical Design | RTL Design | Cadence Virtuoso | Synopsys (VCS • Design Compiler • ICC2) | Immediate Joiner
 </h3>
 
 ---
 
-### 🧠 About Me
-- 🎓 M.Tech in **VLSI Design (Coursework Completed, Result Awaited)** at **Vellore Institute of Technology, Chennai**
-- ⚙️ Strong foundation in **Analog/RF IC Design**, **Digital ASIC Design**, and **Low-Power Architectures**
-- 💡 Hands-on experience with **RTL-to-GDSII flow**, **Physical Design**, and **Analog Circuit Design**
-- 🚀 Available for **Immediate Joining** | Open to **Full-Time and Internship Opportunities**
+# 👨‍💻 About Me
+
+🎓 M.Tech Graduate in **VLSI Design (2026)** from **Vellore Institute of Technology (VIT), Chennai**.
+
+I am passionate about **Analog Layout**, **ASIC Physical Design**, and **Digital IC Design**, with hands-on experience in custom analog layout, RTL development, RTL-to-GDSII implementation, and physical verification using industry-standard EDA tools.
+
+My experience includes:
+
+- Analog/RF Circuit Design
+- Full-Custom Analog Layout
+- RTL Design & Functional Verification
+- Logic Synthesis
+- ASIC Physical Design
+- Static Timing Analysis (STA)
+- Physical Verification (DRC/LVS)
+- RC Parasitic Extraction (PEX)
+
+I have worked with multiple CMOS technologies including:
+
+- GlobalFoundries 40nm
+- TSMC 65nm (Academic)
+- SAED32nm
+- SCL180nm
+- GPDK180nm
+- GPDK90nm
+- GPDK45nm
+
+🚀 **Immediate Joiner** | Open to Full-Time Opportunities
 
 ---
 
-### 🔬 Technical Expertise
-- **HDL / Programming:** Verilog, SystemVerilog, TCL, Python, C  
-- **EDA Tools:**  
-  - **Synopsys:** VCS, Design Compiler, IC Compiler II  
-  - **Cadence:** Virtuoso, Innovus  
-  - **Simulation:** ModelSim, QuestaSim  
-  - **FPGA:** Xilinx Vivado  
-- **Technology Nodes:** **SAED32HVT (32nm)**, **SCL 180nm CMOS**  
-- **Domains:**  
-  - Analog/RF IC Design (LNA, Noise Analysis, Linearity)  
-  - Digital ASIC Design & Verification  
-  - Physical Design (Floorplan → PnR → Timing Closure)  
-  - Low-Power Design Techniques  
-- **Core Skills:** STA, Power Analysis, Multi-Vt Optimization, DRC/LVS, PEX
+# 💻 Technical Skills
+
+## Hardware Description Languages
+
+- Verilog
+- SystemVerilog
+
+## Analog Layout
+
+- Full-Custom Layout
+- Device Matching
+- Common-Centroid
+- Interdigitation
+- Dummy Devices
+- Guard Rings
+- Shielding
+- Layout Optimization
+
+## ASIC Physical Design
+
+- RTL-to-GDSII Flow
+- Logic Synthesis
+- Floorplanning
+- Placement
+- Clock Tree Synthesis (CTS)
+- Routing
+- Static Timing Analysis (STA)
+- Timing Optimization
+- Congestion Analysis
+- Power Analysis
+
+## Physical Verification
+
+- Calibre DRC/LVS
+- Assura DRC/LVS
+- RC Parasitic Extraction (PEX)
+
+## EDA Tools
+
+### Synopsys
+
+- VCS
+- Design Compiler
+- ICC2
+
+### Cadence
+
+- Virtuoso
+- Virtuoso Layout Suite
+- Innovus
+
+### Others
+
+- ModelSim
+
+## Programming
+
+- C
+- Python
+- Perl
+- TCL
 
 ---
 
-### 📡 Dissertation Work (Analog IC Design)
-#### 🔗 **[Performance-Balanced Noise-Canceling Low Noise Amplifier](https://github.com/Rakesh-2306/Performance-Balanced-Noise-Canceling-Low-Noise-Amplifier)**  
-📅 *Dec 2025 – Apr 2026*  
-**Technology:** **SCL 180nm CMOS**
+# 🔬 Featured Projects
 
-- Designed and analyzed multiple LNA architectures (**CG–CS UWB, Cascode, Folded Cascode**) using **Cadence Virtuoso**
-- Performed RF characterization including **gain, noise figure, impedance matching (S11, S22 < -10 dB), and stability (K > 1, μ > 1)**
-- Conducted **linearity analysis using P1dB, IIP3/OIP3, and IMD3**, optimizing folded cascode for improved large-signal performance
-- Achieved **~16 dB gain, low noise figure (~1.1 dB), and improved linearity (P1dB ≈ 2.87 dBm)** with unconditional stability
-- Implemented layout using **device matching, symmetry, and common-centroid techniques**
-- Designed a **custom square spiral inductor** due to absence of inductor model in SCL 180nm PDK
-- Performed **preliminary DRC/LVS checks**; post-layout RC parasitic extraction (PEX) and final verification are in progress (awaiting inductor PDK)
+## 📡 Performance-Balanced Noise-Canceling Low Noise Amplifier
 
----
+🔗 **Repository**
 
-### 🩺 Dissertation Work (Digital ASIC / RISC-V)
-#### 🔗 **[Ultra-Lightweight RISC-V Architecture for Anomaly Detection in Healthcare Applications](https://github.com/Rakesh-2306/Ultra-Lightweight-RISC-V-Architecture-for-Anomaly-Detection-in-Healthcare-Application)**  
-📅 *Jun 2025 – Nov 2025*
+https://github.com/Rakesh-2306/Performance-Balanced-Noise-Canceling-Low-Noise-Amplifier
 
-- Designed a **low-power Day–Night RISC-V processor architecture**
-- Developed **always-on ultra-low-power sub-core** for continuous monitoring
-- Complete **ASIC implementation flow**:
-  - *Synopsys VCS* – RTL verification  
-  - *Design Compiler* – Synthesis, power & timing analysis  
-  - *IC Compiler II* – Floorplanning, placement & routing  
-- Targeted **SAED32HVT 32nm (ff0p95v125c)**
-- Evaluated **power, area, and energy efficiency** against **ORCA** and **Rocket** cores
+**Technology:** SCL180nm CMOS
+
+- Designed and analyzed CG-CS, Cascode, and Folded-Cascode LNA architectures using Cadence Virtuoso.
+- Performed RF analysis including Gain, Noise Figure, S-Parameters, Linearity (IIP3/OIP3, IMD3, P1dB), and Stability.
+- Implemented full-custom analog layout using device matching, common-centroid, guard rings, shielding, and parasitic-aware layout optimization.
+- Performed DRC/LVS verification and RC Parasitic Extraction (PEX) following foundry design rules.
+- Designed a custom square spiral inductor for RF layout implementation.
 
 ---
 
-### 🔋 Other Research Work
-#### 🔢 **[Low Power Hybrid Full Adder for Array Multiplier (90nm CMOS)](https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adder-for-array-multiplier-in-90nm-technology)**  
-📅 *Aug 2024 – Apr 2025*
+## 🖥 Ultra-Lightweight RISC-V Architecture for Anomaly Detection
 
-- Designed a **20-transistor hybrid TG–PTL full adder** optimized for **low power and reduced delay**
-- Integrated into **4-bit and 8-bit array multipliers**, improving overall energy efficiency
-- Achieved reduction in **power consumption and propagation delay** compared to conventional CMOS designs
-- Performed schematic design, simulation, and validation using **Cadence Virtuoso (90nm GPDK)**
-- Completed **layout design with matching considerations**, followed by **DRC, LVS, and post-layout parasitic extraction**
+🔗 **Repository**
 
----
+https://github.com/Rakesh-2306/Ultra-Lightweight-RISC-V-Architecture-for-Anomaly-Detection-in-Healthcare-Application
 
-### 🧰 Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=verilog,python,c,git,vscode" />
-  <img src="https://img.shields.io/badge/Synopsys-VCS%20%7C%20DC%20%7C%20ICC2-purple?style=flat" />
-  <img src="https://img.shields.io/badge/Cadence-Virtuoso%20%7C%20Innovus-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Technology-SAED32HVT%20%7C%20SCL%20180nm-blue?style=flat" />
-</p>
+**Technology:** SAED32nm
+
+- Designed a custom 3-stage RISC-V processor using Verilog/SystemVerilog.
+- Developed RTL modules including ALU, Register File, Control Unit, Immediate Generator, and Pipeline Stages.
+- Performed RTL verification using Synopsys VCS.
+- Executed synthesis using Synopsys Design Compiler.
+- Performed Floorplanning, Placement, CTS, Routing, and Static Timing Analysis (STA) using Synopsys ICC2.
 
 ---
 
-### 📫 Contact & Opportunities
-- 💼 Open to **Full-Time roles** (Immediate Joiner)  
-- 🔗 GitHub: https://github.com/Rakesh-2306  
-- 🔗 LinkedIn: https://www.linkedin.com/in/kmrakesh/
+## ⚡ Low Power Hybrid Full Adder for Array Multiplier
+
+🔗 **Repository**
+
+https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adder-for-array-multiplier-in-90nm-technology
+
+**Technology:** GPDK90nm CMOS
+
+- Designed 4-bit and 8-bit Hybrid Full Adder based Array Multipliers.
+- Developed schematic and optimized custom layout using Cadence Virtuoso.
+- Performed DRC, LVS, and post-layout RC Parasitic Extraction (PEX).
+- Evaluated power and delay improvements using post-layout simulations.
 
 ---
 
-> “Building low-power digital and analog VLSI systems with strong fundamentals and industry-ready implementation.”
+# 📜 Certifications
+
+- NPTEL — System Design Through Verilog
+- NPTEL — VLSI Design Flow: RTL to GDS
+
+---
+
+# 📫 Connect with Me
+
+💼 **Open to Full-Time Opportunities**
+
+- 📧 Email: **kmrakesh23@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/kmrakesh**
+- 💻 GitHub: **https://github.com/Rakesh-2306**
+
+---
+
+<h3 align="center">
+Building efficient Analog Layouts, Digital ICs, and ASIC Physical Designs with a strong foundation in RTL-to-GDSII implementation.
+</h3>

@@ -36,74 +36,96 @@ I have worked with multiple CMOS technologies including:
 🚀 **Immediate Joiner** | Open to Full-Time Opportunities
 
 ---
-
 # 💻 Technical Skills
 
 <table>
 <tr>
-<td valign="top" width="25%">
 
-### 💡 Design
+<td valign="top" width="20%">
 
-- Analog Layout
-- RTL Design
-- ASIC Physical Design
-- Logic Synthesis
-- Functional Verification
-- Floorplanning
-- Placement
-- CTS
-- Routing
-- STA
+### 📐 Analog Layout
 
-</td>
-
-<td valign="top" width="25%">
-
-### 📐 Layout
-
+- Full-Custom Layout
 - Device Matching
 - Common-Centroid
 - Interdigitation
 - Dummy Devices
 - Guard Rings
 - Shielding
-- DRC
-- LVS
-- PEX
+- Symmetry
+- Fingering
+- Via Arrays
+- Manual Routing
 - Layout Optimization
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
-### 🛠️ Tools
+### 🖥 Digital / ASIC
 
-- Cadence Virtuoso
-- Virtuoso Layout Suite
-- Innovus
-- Synopsys VCS
-- Design Compiler
-- ICC2
-- ModelSim
+- RTL Design
+- Verilog
+- SystemVerilog
+- Functional Verification
+- Logic Synthesis
+- Floorplanning
+- Placement
+- CTS
+- Routing
+- Static Timing Analysis (STA)
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
+
+### 📡 Analog / RF
+
+- Analog Circuit Design
+- RF Simulation
+- S-Parameters
+- Noise Figure (NF)
+- Linearity (IIP3, OIP3, IMD3, P1dB)
+- Stability (K-Factor, μ-Factor)
+
+#### Building Blocks
+
+- Differential Pair
+- Current Mirror
+- Comparator
+- LDO Fundamentals
+- ADC/DAC Fundamentals
+
+</td>
+
+<td valign="top" width="20%">
+
+### 🛠 EDA Tools
+
+- Cadence Virtuoso
+- Virtuoso Layout Suite
+- Calibre
+- Assura
+- Synopsys VCS
+- Design Compiler
+- ICC2
+- Innovus
+- ModelSim
+
+#### Verification
+
+- DRC
+- LVS
+- PEX
+
+</td>
+
+<td valign="top" width="20%">
 
 ### ⚙️ Technologies
 
-**HDLs**
-- Verilog
-- SystemVerilog
+#### PDKs
 
-**Programming**
-- C
-- Python
-- Perl
-- TCL
-
-**PDKs**
 - GF40
 - TSMC65
 - SAED32
@@ -112,7 +134,15 @@ I have worked with multiple CMOS technologies including:
 - GPDK90
 - GPDK45
 
+#### Programming
+
+- C
+- Python
+- Perl
+- TCL
+
 </td>
+
 </tr>
 </table>
 ---

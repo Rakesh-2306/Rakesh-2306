@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rakesh K M</h1>
 
 <h3 align="center">
-Analog Layout Engineer | ASIC Physical Design | RTL Design | Cadence Virtuoso | Synopsys (VCS • Design Compiler • ICC2) | Immediate Joiner
+Analog Layout Engineer | Custom IC Layout | ASIC Physical Design | RTL Design | Cadence Virtuoso | Synopsys (VCS • Design Compiler • ICC2) | Immediate Joiner
 </h3>
 
 ---
@@ -12,16 +12,7 @@ Analog Layout Engineer | ASIC Physical Design | RTL Design | Cadence Virtuoso | 
 
 I am passionate about **Analog Layout**, **ASIC Physical Design**, and **Digital IC Design**, with hands-on experience in custom analog layout, RTL development, RTL-to-GDSII implementation, and physical verification using industry-standard EDA tools.
 
-My experience includes:
-
-- Analog/RF Circuit Design
-- Full-Custom Analog Layout
-- RTL Design & Functional Verification
-- Logic Synthesis
-- ASIC Physical Design
-- Static Timing Analysis (STA)
-- Physical Verification (DRC/LVS)
-- RC Parasitic Extraction (PEX)
+I have hands-on experience in Analog/RF Circuit Design, Full-Custom Analog Layout, RTL Design, Functional Verification, Logic Synthesis, ASIC Physical Design, Static Timing Analysis (STA), Physical Verification (DRC/LVS), and RC Parasitic Extraction (PEX).
 
 I have worked with multiple CMOS technologies including:
 
@@ -62,7 +53,7 @@ I have worked with multiple CMOS technologies including:
 
 <td valign="top" width="20%">
 
-### 🖥 Digital / ASIC
+### 🖥 ASIC Design Flow
 
 - RTL Design
 - Verilog
@@ -88,7 +79,7 @@ I have worked with multiple CMOS technologies including:
 - Linearity (IIP3, OIP3, IMD3, P1dB)
 - Stability (K-Factor, μ-Factor)
 
-#### Building Blocks
+#### Analog Building Blocks
 
 - Differential Pair
 - Current Mirror
@@ -122,7 +113,7 @@ I have worked with multiple CMOS technologies including:
 
 <td valign="top" width="20%">
 
-### ⚙️ Technologies
+### ⚙️ Process Technologies
 
 #### PDKs
 
@@ -146,6 +137,20 @@ I have worked with multiple CMOS technologies including:
 </tr>
 </table>
 ---
+
+# 🎓 Professional Training
+
+### Analog Layout Design Training
+
+- Technology: GlobalFoundries 40nm (GF40)
+- Full-Custom Analog Layout
+- Device Matching
+- Common-Centroid
+- Interdigitation
+- Guard Rings
+- Shielding
+- DRC/LVS
+- RC Parasitic Extraction (PEX)
 
 # 🔬 Featured Projects
 
@@ -195,6 +200,14 @@ https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adde
 - Evaluated power and delay improvements using post-layout simulations.
 
 ---
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-2306&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-2306&layout=compact&theme=default" height="170"/>
+</p>
 
 # 📜 Certifications
 

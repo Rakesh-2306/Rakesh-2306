@@ -201,14 +201,6 @@ https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adde
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-2306&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-2306&layout=compact&theme=default" height="170"/>
-</p>
-
 # 📜 Certifications
 
 - NPTEL — System Design Through Verilog

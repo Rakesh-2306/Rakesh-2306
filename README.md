@@ -41,65 +41,76 @@ I have worked with multiple CMOS technologies including:
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-### 🖥 Design & Verification
+### 💡 Design
 
-- **RTL Design**
-- **SystemVerilog**
-- **Verilog**
-- Functional Verification
-- Logic Synthesis
-- Static Timing Analysis (STA)
+- Analog Layout
+- RTL Design
 - ASIC Physical Design
+- Logic Synthesis
+- Functional Verification
 - Floorplanning
 - Placement
 - CTS
 - Routing
+- STA
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-### 📐 Analog Layout & EDA
+### 📐 Layout
 
-- Full-Custom Analog Layout
 - Device Matching
 - Common-Centroid
-- Guard Rings & Shielding
-- DRC / LVS / PEX
+- Interdigitation
+- Dummy Devices
+- Guard Rings
+- Shielding
+- DRC
+- LVS
+- PEX
+- Layout Optimization
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🛠️ Tools
+
 - Cadence Virtuoso
+- Virtuoso Layout Suite
+- Innovus
 - Synopsys VCS
 - Design Compiler
 - ICC2
 - ModelSim
 
 </td>
-</tr>
 
-<tr>
-<td valign="top">
+<td valign="top" width="25%">
 
-### 🏭 Process Technologies
+### ⚙️ Technologies
 
-- GlobalFoundries 40nm
-- TSMC 65nm (Academic)
-- SAED32nm
-- SCL180nm
-- GPDK180nm
-- GPDK90nm
-- GPDK45nm
+**HDLs**
+- Verilog
+- SystemVerilog
 
-</td>
-
-<td valign="top">
-
-### 💻 Programming
-
+**Programming**
 - C
 - Python
 - Perl
 - TCL
+
+**PDKs**
+- GF40
+- TSMC65
+- SAED32
+- SCL180
+- GPDK180
+- GPDK90
+- GPDK45
 
 </td>
 </tr>

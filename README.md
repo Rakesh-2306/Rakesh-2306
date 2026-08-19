@@ -154,6 +154,10 @@ I have worked with multiple CMOS technologies including:
 
 ### Semionics — Analog Layout Internship / Training
 
+🔗 **Repository**
+
+https://github.com/Rakesh-2306/Semionics-Analog-Layout-Internship-Training
+
 - **Technology:** GlobalFoundries 40nm Planar CMOS (GF40)
 - **EDA Tool:** Cadence Virtuoso
 - Hands-on experience in **custom analog, mixed-signal, and CMOS circuit implementation**.

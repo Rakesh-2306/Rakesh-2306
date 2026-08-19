@@ -10,13 +10,17 @@ Analog Layout Engineer | Custom IC Layout | ASIC Physical Design | RTL Design | 
 
 🎓 M.Tech Graduate in **VLSI Design (2026)** from **Vellore Institute of Technology (VIT), Chennai**.
 
-I am passionate about **Analog Layout**, **ASIC Physical Design**, and **Digital IC Design**, with hands-on experience in custom analog layout, RTL development, RTL-to-GDSII implementation, and physical verification using industry-standard EDA tools.
+I am passionate about **Analog Layout**, **Analog/Mixed-Signal IC Design**, and **Digital IC Design**, with hands-on experience in custom analog layout, RTL development, RTL-to-GDSII implementation, and physical verification using industry-standard EDA tools.
 
-I have hands-on experience in Analog/RF Circuit Design, Full-Custom Analog Layout, RTL Design, Functional Verification, Logic Synthesis, ASIC Physical Design, Static Timing Analysis (STA), Physical Verification (DRC/LVS), and RC Parasitic Extraction (PEX).
+I completed an **Analog Layout Internship / Training at Semionics** using **GlobalFoundries 40nm Planar CMOS (GF40)** technology, with hands-on exposure to **custom analog, mixed-signal, and CMOS circuit layout using Cadence Virtuoso**.
+
+During the training, I worked on multiple analog, mixed-signal, and CMOS building blocks, including **single-stage and cascode Op-Amps, differential pairs, current mirrors, multi-voltage level shifters, 4/8-bit DACs, band-pass filters, CMOS bandgap references, NMOS clamping circuits, ring oscillators, standard cells, AOI gates, SR latches, D flip-flops, priority encoders, counters, and full adders**.
+
+I also have hands-on experience in **Analog/RF Circuit Design, Full-Custom Analog Layout, RTL Design, Functional Verification, Logic Synthesis, ASIC Physical Design, Static Timing Analysis (STA), Physical Verification (DRC/LVS), and RC Parasitic Extraction (PEX)**.
 
 I have worked with multiple CMOS technologies including:
 
-- GlobalFoundries 40nm
+- GlobalFoundries 40nm Planar (GF40)
 - TSMC 65nm (Academic)
 - SAED32nm
 - SCL180nm
@@ -27,6 +31,7 @@ I have worked with multiple CMOS technologies including:
 🚀 **Immediate Joiner** | Open to Full-Time Opportunities
 
 ---
+
 # 💻 Technical Skills
 
 <table>
@@ -79,13 +84,20 @@ I have worked with multiple CMOS technologies including:
 - Linearity (IIP3, OIP3, IMD3, P1dB)
 - Stability (K-Factor, μ-Factor)
 
-#### Analog Building Blocks
+#### Analog / Mixed-Signal Blocks
 
 - Differential Pair
 - Current Mirror
+- Single-Stage Op-Amp
+- Cascode Op-Amp
 - Comparator
+- Multi-Voltage Level Shifter
+- 4/8-Bit DAC
+- Band-Pass Filter
+- CMOS Bandgap Reference
+- NMOS Clamping Circuit
+- Ring Oscillator
 - LDO Fundamentals
-- ADC/DAC Fundamentals
 
 </td>
 
@@ -138,19 +150,37 @@ I have worked with multiple CMOS technologies including:
 </table>
 
 
-# 🎓 Professional Training
+# 🎓 Analog Layout Internship / Training
 
-### Analog Layout Design Training
+### Semionics — Analog Layout Internship / Training
 
-- Technology: GlobalFoundries 40nm (GF40)
-- Full-Custom Analog Layout
-- Device Matching
-- Common-Centroid
-- Interdigitation
-- Guard Rings
-- Shielding
-- DRC/LVS
-- RC Parasitic Extraction (PEX)
+- **Technology:** GlobalFoundries 40nm Planar CMOS (GF40)
+- **EDA Tool:** Cadence Virtuoso
+- Hands-on experience in **custom analog, mixed-signal, and CMOS circuit implementation**.
+- Worked on **differential pairs, current mirrors, and passive structures** with matching-oriented layout techniques.
+- Applied **common-centroid, interdigitation, dummy devices, guard rings, shielding, symmetry, and matching-oriented placement**.
+- Performed **manual routing, DRC/LVS, post-layout parasitic extraction (PEX), and layout optimization** following foundry design rules.
+
+### CMOS / Digital Blocks
+
+- Standard Cells
+- AOI Gates
+- Clocked NOR-Based SR Latch
+- CMOS D Flip-Flop
+- 8:3 Priority Encoder
+- Modulo-8 Counter using JK Flip-Flops
+- 4-Bit Full Adder
+
+### Analog / Mixed-Signal Blocks
+
+- Single-Stage Op-Amp
+- Cascode Op-Amp
+- Multi-Voltage Level Shifter
+- 4/8-Bit DACs
+- Band-Pass Filter
+- CMOS Bandgap Reference
+- NMOS Clamping Circuits
+- Ring Oscillator
 
 # 🔬 Featured Projects
 
@@ -219,5 +249,5 @@ https://github.com/Rakesh-2306/Design-and-analysis-of-Low-power-hybrid-full-adde
 ---
 
 <h3 align="center">
-Building efficient Analog Layouts, Digital ICs, and ASIC Physical Designs with a strong foundation in RTL-to-GDSII implementation.
+Building efficient Analog Layouts, Mixed-Signal ICs, Digital ICs, and ASIC Physical Designs with hands-on experience in custom layout and RTL-to-GDSII implementation.
 </h3>

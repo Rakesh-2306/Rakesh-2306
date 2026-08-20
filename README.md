@@ -152,7 +152,7 @@ I have worked with multiple CMOS technologies including:
 
 # 🎓 Analog Layout Internship / Training
 
-### Semionics — Analog Layout Internship / Training
+### Semionics — Analog & Mixed-Signal IC Layout & Physical Verification
 
 🔗 **Repository**
 
